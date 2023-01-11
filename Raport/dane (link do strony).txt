@@ -1,0 +1,11 @@
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+UWAGA:
+
+1)pobranie danych przez połączenie się za pomocą odnośnika strony (potem odświeżanie);
+wklejanie:
+https://opendata.ecdc.europa.eu/covid19/casedistribution/csv/data.csv
+
+lub
+
+2)bezpośrednio z ściągniętych, zapisanych plików (xlsx, csv, json, xml) ze strony
