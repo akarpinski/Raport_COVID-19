@@ -1,5 +1,5 @@
-### Sprzedaż rok do roku
-Celem jest analiza, pokazanie rozkładu sprzedaży rok do roku wg miesięcy bez pisania kodu.
+### Raport_COVID-19
+Celem jest analiza, pokazanie rozkładu analizy liczby zakażeń, zgonów w trakcie epidemii COVID-19 (bez pisania kodu).
 
 Na narzędziu Power BI Desktop.
 
