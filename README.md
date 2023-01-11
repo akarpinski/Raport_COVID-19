@@ -1,11 +1,9 @@
 ### Raport_COVID-19
-Celem jest analiza, pokazanie rozkładu analizy liczby zakażeń, zgonów w trakcie epidemii COVID-19 (bez pisania kodu).
+Celem analiza liczby zakażeń, zgonów w trakcie epidemii COVID-19.
 
-Na narzędziu Power BI Desktop.
+Raport analityczny na narzędziu Power BI Desktop (bez pisania kodu).
 
 ---
 
 #### Etapy analizy:
 
-##### Raport_COVID-19
- Raport analityczny na narzędziu Power BI Desktop
