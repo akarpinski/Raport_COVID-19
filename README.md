@@ -14,6 +14,7 @@ Raport analityczny na narzędziu Power BI Desktop (bez pisania kodu).
   <li>Menu wyboru kontynentów, obszarów, krajów za pomocą fragmentatora.</li>
   <li>Wybór terminu, zakresu czasu za pomocą fragmentatora (kalendarz, suwak).</li>
   <li>Strona szczegółowa dotycząca danego kraju. Wybór kraju prawym przyciskiem na mapie.</li>
+  <li>Strona tworząca etykiety danymi 3 krajów o największym zakażeniu w dniu wybranym na wykresie strony głównej.</li>
 </ol>
 
 
