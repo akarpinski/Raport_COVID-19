@@ -13,7 +13,8 @@ Raport analityczny na narzędziu Power BI Desktop (bez pisania kodu).
   <li>Liczba dotychczasowych zakażeń i zgonów na osobnych kartach. Dodatkowo dzisiejsze.</li>
   <li>Menu wyboru kontynentów, obszarów, krajów za pomocą fragmentatora.</li>
   <li>Wybór terminu, zakresu czasu za pomocą fragmentatora (kalendarz, suwak).</li>
-  <li>Strona szczegółowa dotycząca danego kraju</li>
+  <li>Strona szczegółowa dotycząca danego kraju. Wybór kraju prawym przyciskiem na mapie.</li>
+  <li>Strona tworząca etykiety danych 3 krajów o największym zakażeniu (wykres strony głównej).</li>
 </ol>
 
 
